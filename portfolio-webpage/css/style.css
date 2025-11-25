@@ -9,7 +9,9 @@ body {
     font-size: medium;
     background-color: yellow;
 }
-
+#profilePhoto {
+    box-shadow: 0 4 px 10 px rgba(0, 0, 0, 0.2);
+}
 #space {
     padding-right: 10px;
 }
